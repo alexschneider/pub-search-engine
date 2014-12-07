@@ -1,0 +1,14 @@
+name: pub-search-engine
+version: 0.0.1
+description: A sample command-line application
+dependencies:
+  redstone: any
+  mustache4dart: any
+  dart_config: any
+  shelf_static: any
+  bootjack: any
+  dquery: any
+  redis:
+    git: git://github.com/ra1u/redis-dart.git
+dev_dependencies:
+#  unittest: any
